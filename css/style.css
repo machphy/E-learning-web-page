@@ -1,0 +1,103 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+.nav-ul li {
+  display: inline;
+  padding: 10px;
+}
+.nav-ul li a {
+  text-decoration: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  color: black;
+  font-weight: 500;
+}
+.sign-in {
+  background-color: #21b573;
+  color: #fff !important ;
+  padding: 10px 28px;
+  border-radius: 33px;
+}
+.container-fluid {
+  background-color: #f0fff0;
+  height: 500px;
+}
+.container-100{
+    width: 100%;
+}
+.frame-image img {
+  width: 100%;
+}
+.text-span {
+  color: #21b573;
+}
+.font-style {
+  line-height: 30px;
+}
+.btn-get-started {
+  background-color: #21b573;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 30px;
+}
+
+.text-style {
+  color: orangered;
+}
+.details-box {
+  border-radius: 10px;
+  box-shadow: none;
+  background-color: #daebe3;
+}
+.course-card {
+  width: 300px;
+  height: 440px;
+  background: #f0fff0;
+  box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  float: left;
+}
+.box-shadow{
+    box-shadow: 0px 10px 40px grey;
+}
+.course-card img{
+    margin-top: 15px;
+    border-radius: 20px;
+}
+.margin-top{
+    margin: 100px 0 50px 0px;
+    color: #21b573;
+    font-weight: bolder;
+}
+.course-card .card-img{
+    width: 90%;
+    padding: 5%;
+}
+.card-title,
+.card-description,
+.footer{
+    padding-left: 20px;
+}
+.btn-buy {
+  background-color: #21b573;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 30px;
+  margin-left: 18px;
+}
+.testimonial{
+    clear: both;
+    margin: 200px 0 0 0;
+}
+.testimonial img{
+    width: 70%;
+}
+.text-justify{
+    text-align: justify;
+}
+h5{
+    margin-left: 20px;
+}
+/* Design CSS*/
